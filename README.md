@@ -3,6 +3,8 @@
 This is an interactive web app built with Streamlit and Scikit-learn to predict customer churn risk based on their account and service details.
 
 
+**Live App Demo:** **[Click here to see the app in action!](https://your-app-name.streamlit.app)**
+
 
 ## 🎯 Project Overview
 
